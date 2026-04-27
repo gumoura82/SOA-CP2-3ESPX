@@ -4,7 +4,7 @@
 
 ---
 
-## 👤 Informações do Aluno
+##  Aluno
 
 | Campo | Valor |
 |-------|-------|
