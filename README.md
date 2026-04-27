@@ -8,9 +8,9 @@
 
 | Campo | Valor |
 |-------|-------|
-| **Nome** | [SEU NOME AQUI] |
-| **RM** | [SEU RM AQUI] |
-| **Turma** | [SUA TURMA AQUI] |
+| **Nome** | Gustavo Oliveira de Moura |
+| **RM** | 555827 |
+| **Turma** | 3ESPX |
 
 ---
 
